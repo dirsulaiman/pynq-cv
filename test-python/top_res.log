@@ -1,0 +1,35 @@
+top - 14:21:13 up  1:15,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.3 us,  0.2 sy,  0.3 ni, 98.1 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    76304 free,   133516 used,   298736 buff/cache
+KiB Swap:  1048572 total,  1048572 free,        0 used.   363468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2788 xilinx    20   0   10120   6308   3816 S   0.0  1.2   0:00.24 python3
+
+top - 14:21:16 up  1:15,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    76320 free,   133496 used,   298740 buff/cache
+KiB Swap:  1048572 total,  1048572 free,        0 used.   363484 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2788 xilinx    20   0   10120   6308   3816 S   0.0  1.2   0:00.24 python3
+
+top - 14:21:19 up  1:15,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    76288 free,   133524 used,   298744 buff/cache
+KiB Swap:  1048572 total,  1048572 free,        0 used.   363448 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2788 xilinx    20   0   10120   6308   3816 S   0.0  1.2   0:00.24 python3
+
+top - 14:21:22 up  1:15,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.0 sy,  0.0 ni, 99.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    76288 free,   133524 used,   298744 buff/cache
+KiB Swap:  1048572 total,  1048572 free,        0 used.   363448 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 2788 xilinx    20   0   10120   6308   3816 S   0.0  1.2   0:00.24 python3
