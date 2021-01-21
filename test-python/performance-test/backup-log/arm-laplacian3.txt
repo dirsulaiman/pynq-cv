@@ -1,0 +1,35 @@
+top - 14:29:10 up 4 min,  2 users,  load average: 0.46, 0.40, 0.19
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.4 us,  3.9 sy,  0.0 ni, 75.4 id,  1.2 wa,  0.0 hi,  0.1 si,
+KiB Mem :   508556 total,    26840 free,   221844 used,   259872 buff/c
+KiB Swap:  1048572 total,  1048572 free,        0 used.   279828 avail 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 2152 root      20   0  388160 125840  54412 S   0.0 24.7   0:28.55
+
+top - 14:29:13 up 4 min,  2 users,  load average: 0.46, 0.40, 0.19
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 23.7 us,  2.2 sy,  0.0 ni, 72.5 id,  1.5 wa,  0.0 hi,  0.2 si,
+KiB Mem :   508556 total,    21472 free,   226900 used,   260184 buff/c
+KiB Swap:  1048572 total,  1048572 free,        0 used.   274724 avail 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 2152 root      20   0  393560 126884  55360 R  41.2 24.9   0:29.79
+
+top - 14:29:16 up 4 min,  2 users,  load average: 0.50, 0.41, 0.19
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 51.6 us,  0.3 sy,  0.0 ni, 47.9 id,  0.0 wa,  0.0 hi,  0.2 si,
+KiB Mem :   508556 total,    21132 free,   227240 used,   260184 buff/c
+KiB Swap:  1048572 total,  1048572 free,        0 used.   274448 avail 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 2152 root      20   0  393560 126884  55360 R  99.3 24.9   0:32.78
+
+top - 14:29:19 up 4 min,  2 users,  load average: 0.46, 0.41, 0.19
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.7 us,  0.3 sy,  0.0 ni, 61.8 id,  0.2 wa,  0.0 hi,  0.0 si,
+KiB Mem :   508556 total,    21268 free,   227096 used,   260192 buff/c
+KiB Swap:  1048572 total,  1048572 free,        0 used.   274584 avail 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
+ 2152 root      20   0  393560 126884  55360 S  70.3 24.9   0:34.89
