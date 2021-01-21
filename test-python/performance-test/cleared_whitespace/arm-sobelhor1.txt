@@ -1,28 +1,280 @@
-top - 13:57:33 up 53 min,  2 users,  load average: 0.43, 0.35, 0.37
+top - 18:24:37 up  1:45,  2 users,  load average: 0.24, 0.37, 0.40
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 12.0 us,  4.8 sy,  0.0 ni, 83.0 id,  0.2 wa,  0.0 hi,  0.0 si,
-KiB Mem :   508556 total,    21932 free,   258568 used,   228056 buff/c
-KiB Swap:  1048572 total,  1046780 free,     1792 used.   242212 avail 
-PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
-3797 root      20   0  388476 126976  55212 S   0.0 25.0   0:30.58
-top - 13:57:36 up 53 min,  2 users,  load average: 0.39, 0.34, 0.37
-Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 27.6 us,  1.8 sy,  0.0 ni, 70.5 id,  0.0 wa,  0.0 hi,  0.0 si,
-KiB Mem :   508556 total,    19384 free,   263588 used,   225584 buff/c
-KiB Swap:  1048572 total,  1046780 free,     1792 used.   237196 avail 
-PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
-3797 root      20   0  393876 126656  54888 R  52.8 24.9   0:32.17
-top - 13:57:39 up 53 min,  2 users,  load average: 0.44, 0.36, 0.37
-Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 51.5 us,  0.0 sy,  0.0 ni, 48.5 id,  0.0 wa,  0.0 hi,  0.0 si,
-KiB Mem :   508556 total,    19044 free,   263928 used,   225584 buff/c
-KiB Swap:  1048572 total,  1046780 free,     1792 used.   236856 avail 
-PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
-3797 root      20   0  393876 126656  54888 R  99.7 24.9   0:35.16
-top - 13:57:42 up 53 min,  2 users,  load average: 0.44, 0.36, 0.37
+%Cpu(s): 10.4 us,  3.9 sy,  0.2 ni, 85.4 id,  0.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246068 used,   247136 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255092 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:39.52 python3
+top - 18:24:37 up  1:45,  2 users,  load average: 0.24, 0.37, 0.40
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 43.8 us,  0.8 sy,  0.0 ni, 55.1 id,  0.3 wa,  0.0 hi,  0.0 si,
-KiB Mem :   508556 total,    19100 free,   263840 used,   225616 buff/c
-KiB Swap:  1048572 total,  1046780 free,     1792 used.   236940 avail 
-PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+
-3797 root      20   0  393876 126656  54888 S  74.3 24.9   0:37.39
+%Cpu(s):  9.2 us,  0.8 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246068 used,   247136 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255092 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:39.52 python3
+top - 18:24:38 up  1:45,  2 users,  load average: 0.24, 0.37, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.0 us,  0.8 sy,  0.0 ni, 94.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246068 used,   247136 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255092 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   1.7 25.1   0:39.53 python3
+top - 18:24:39 up  1:45,  2 users,  load average: 0.24, 0.37, 0.40
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 38.3 us,  0.8 sy,  0.0 ni, 60.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246068 used,   247136 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255092 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R  63.3 25.1   0:39.91 python3
+top - 18:24:39 up  1:45,  2 users,  load average: 0.24, 0.37, 0.40
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 52.5 us,  1.7 sy,  0.0 ni, 45.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246068 used,   247136 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255092 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R  98.3 25.1   0:40.50 python3
+top - 18:24:40 up  1:45,  2 users,  load average: 0.24, 0.37, 0.40
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 53.7 us,  1.6 sy,  0.0 ni, 44.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15336 free,   246056 used,   247164 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255104 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:41.10 python3
+top - 18:24:40 up  1:45,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 53.3 us,  0.8 sy,  0.0 ni, 45.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15336 free,   246056 used,   247164 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255104 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:41.71 python3
+top - 18:24:41 up  1:45,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 53.8 us,  0.0 sy,  0.0 ni, 46.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15336 free,   246056 used,   247164 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255104 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R  98.3 25.1   0:42.30 python3
+top - 18:24:42 up  1:45,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 50.8 us,  3.3 sy,  0.0 ni, 45.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15336 free,   246056 used,   247164 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255104 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:42.90 python3
+top - 18:24:42 up  1:45,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 54.2 us,  0.0 sy,  0.0 ni, 45.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15336 free,   246056 used,   247164 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255104 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:43.50 python3
+top - 18:24:43 up  1:46,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 53.3 us,  1.6 sy,  0.0 ni, 45.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15344 free,   246044 used,   247168 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255112 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R  98.4 25.1   0:44.10 python3
+top - 18:24:43 up  1:46,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 52.9 us,  0.8 sy,  0.0 ni, 46.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15344 free,   246044 used,   247168 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255112 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:44.70 python3
+top - 18:24:44 up  1:46,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 52.9 us,  0.8 sy,  0.0 ni, 46.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15344 free,   246044 used,   247168 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255112 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:45.30 python3
+top - 18:24:45 up  1:46,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 52.9 us,  1.7 sy,  0.0 ni, 45.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15344 free,   246044 used,   247168 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255112 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:45.90 python3
+top - 18:24:45 up  1:46,  2 users,  load average: 0.30, 0.38, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 52.5 us,  2.5 sy,  0.0 ni, 45.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15344 free,   246044 used,   247168 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255112 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R  98.3 25.1   0:46.49 python3
+top - 18:24:46 up  1:46,  2 users,  load average: 0.35, 0.39, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 52.5 us,  1.7 sy,  0.0 ni, 45.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15312 free,   246068 used,   247176 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:47.10 python3
+top - 18:24:46 up  1:46,  2 users,  load average: 0.35, 0.39, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 51.7 us,  2.5 sy,  0.0 ni, 45.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15312 free,   246068 used,   247176 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 101.7 25.1   0:47.71 python3
+top - 18:24:47 up  1:46,  2 users,  load average: 0.35, 0.39, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 53.7 us,  0.8 sy,  0.0 ni, 45.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15312 free,   246068 used,   247176 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R  98.3 25.1   0:48.30 python3
+top - 18:24:48 up  1:46,  2 users,  load average: 0.35, 0.39, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 53.3 us,  0.8 sy,  0.0 ni, 45.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15312 free,   246068 used,   247176 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:48.90 python3
+top - 18:24:48 up  1:46,  2 users,  load average: 0.35, 0.39, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 54.0 us,  1.6 sy,  0.0 ni, 44.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15312 free,   246068 used,   247176 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:49.51 python3
+top - 18:24:49 up  1:46,  2 users,  load average: 0.35, 0.39, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 53.8 us,  0.0 sy,  0.0 ni, 46.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246056 used,   247180 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255088 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R 100.0 25.1   0:50.11 python3
+top - 18:24:49 up  1:46,  2 users,  load average: 0.35, 0.39, 0.41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 52.9 us,  0.8 sy,  0.0 ni, 46.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246056 used,   247180 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255088 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 R  98.3 25.1   0:50.70 python3
+top - 18:24:50 up  1:46,  2 users,  load average: 0.35, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.5 us,  0.8 sy,  0.0 ni, 76.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246056 used,   247180 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255088 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S  31.7 25.1   0:50.89 python3
+top - 18:24:51 up  1:46,  2 users,  load average: 0.33, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.6 us,  0.0 sy,  0.0 ni, 92.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246056 used,   247180 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255088 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:51 up  1:46,  2 users,  load average: 0.33, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246056 used,   247180 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255088 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:52 up  1:46,  2 users,  load average: 0.33, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.0 sy,  0.0 ni, 96.7 id,  0.0 wa,  0.0 hi,  0.8 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:52 up  1:46,  2 users,  load average: 0.33, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us,  0.8 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:53 up  1:46,  2 users,  load average: 0.33, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us,  1.7 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:54 up  1:46,  2 users,  load average: 0.33, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us,  3.3 sy,  0.0 ni, 93.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:54 up  1:46,  2 users,  load average: 0.33, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.0 sy,  0.0 ni, 97.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:55 up  1:46,  2 users,  load average: 0.33, 0.39, 0.41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us,  0.8 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:55 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:56 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us,  1.7 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:57 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us,  0.0 sy,  0.0 ni, 96.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:57 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15320 free,   246052 used,   247184 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255080 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:58 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.4 us,  0.8 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246008 used,   247196 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255144 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:58 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.1 us,  0.0 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246008 used,   247196 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255144 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:24:59 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.1 us,  0.8 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246008 used,   247196 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255144 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:25:00 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.8 sy,  0.0 ni, 96.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246008 used,   247196 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255144 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
+top - 18:25:00 up  1:46,  2 users,  load average: 0.30, 0.38, 0.40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.0 sy,  0.0 ni, 97.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   508556 total,    15352 free,   246008 used,   247196 buff/cache
+KiB Swap:  1048572 total,  1047804 free,      768 used.   255144 avail Mem 
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+4892 root      20   0  393556 127756  56308 S   0.0 25.1   0:50.89 python3
